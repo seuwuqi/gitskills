@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+
+int main(){
+
+cout << "u are a stupid gitl" << endl;
+cout << "life is good , u should enjoy it" << endl;
+
+cout << "now we can use github to start our programe , the first test app is hello world" << endl;
+
+return 0;
+}
